@@ -25,10 +25,9 @@ Aplicação web para gerenciamento de biblioteca com cadastro e login de usuári
 2. Crie e ative o ambiente virtual
 3. Instale as dependências:
 
-   pip install -r requirements.txt
-
    python -m venv venv
    venv\Scripts\activate
+   pip install -r requirements.txt
 
 4. Verifique se a pasta `frontend_dist/` está presente
 
